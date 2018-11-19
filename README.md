@@ -2,9 +2,9 @@
 attempt to prepare nodes for OSSN by creating a gatsby-plugin
 For this example the club entity is used. 
 
-State: Not functinal.
-reason: The remote endpoint does not return a JSON response.
-Help needed: Absolutely O:) 
+- State: Not functinal.
+- reason: The remote endpoint does not return a JSON response.
+- Help needed: Absolutely O:) 
 
 This is an attempt for a gatsby-source-plugin
 
